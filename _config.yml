@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kozachenko.github.io
+title: ekwoster @ fiverr
+tagline: Short page on long travel across fiverr
+description: My notes on how I do money on fiverr, and what is done
+paginate: 10
